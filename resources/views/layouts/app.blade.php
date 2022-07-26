@@ -12,5 +12,11 @@
     <header>
         @include('partials.header')
     </header>
+
+    <main></main>
+
+    <footer>
+        @include('partials.footer')
+    </footer>
 </body>
 </html>
