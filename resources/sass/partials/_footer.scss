@@ -1,0 +1,26 @@
+.footer-bg {
+    background-image: url("/images/footer-bg.jpg");
+    background-size: cover;
+    color: white;
+    font-size: 12px;
+}
+ul li h3 {
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+}
+ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color: grey;
+    margin-bottom: 3px;
+}
+.m-height {
+    max-height: 150px;
+}
+.footer-logo {
+    height: 400px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}

@@ -1,0 +1,21 @@
+.bg-black-banner {
+    background-color: #1c1c1c;
+    color: white;
+  }
+  .jumbo-btn {
+    top: 0;
+    left: 0;
+    transform: translateY(-50%);
+  }
+  .col img {
+    width: 100%;
+    aspect-ratio: 1/1;
+    margin-bottom: 1rem;
+    object-fit: cover;
+    object-position: top;
+  }
+  .col .card-body {
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+  }

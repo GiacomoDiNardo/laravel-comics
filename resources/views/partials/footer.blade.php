@@ -54,7 +54,7 @@ $shopLinks = ['Shop DC', 'Shop DC Collectibles'];
                 </ul>
             </div>
             <div class="col-6 footer-logo">
-                <img src="{{ asset('images/dc-logo.png') }}" alt="">
+                <img src="{{ asset('images/dc-logo-bg.png') }}" alt="">
             </div>
         </div>
     </div>
